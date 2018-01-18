@@ -1,32 +1,23 @@
-<<<<<<< HEAD
-# ReduxSimpleStarter
+# WeatherList Demo
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Made with Redux Simple Starter from Stephen Grider (https://github.com/StephenGrider/ReduxSimpleStarter.git)
 
-### Getting Started
+### About
 
-There are two methods for getting started with this repo.
+A basic Australian weather app utilising the OpenWeatherMap API and the Sparklines package for their beautiful graphs.
+Includes:
+- A search function for almost any town/city in Australia;
+- A cumulative list of the locations searched in the current session;
+- Charts providing an overview of changes to temperature, pressure, and humidity in each location searched;
+- A GoogleMaps embed for each location searched;
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+### How to run from git
+
+Follow the steps below to run the web app
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/GILLINGJA/WeatherListDemo.git
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
-=======
-
-# UDEMY-weather
-A basic weather app I created through Udemy tutorials of Stephen Grider.
-I'm building an additional detailed weather view for the user to alternate between.
-The purpose of this project is to build upon and consolidate my understanding of React, Redux and their interactions.
